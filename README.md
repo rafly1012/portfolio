@@ -19,14 +19,34 @@ I specialize in **React, Next.js, and modern web technologies**, with a keen eye
 
 ---
 
-## Projects
-### 🌐 Personal Portfolio Website  
-A showcase of my skills, projects, and experiences, built with **Next.js** and **Tailwind CSS**.  
-[Live Demo](https://your-vercel-link.vercel.app) | [Source Code](https://github.com/rafly1012/portfolio)
+## Featured Projects
 
-### 📱 Other Projects
-- **Project 1** – Short description about your project (e.g., e-commerce app, landing page, etc.)  
-- **Project 2** – Short description here  
+### 📱 ASN Mobile Attendance Application (2025)  
+A full-stack application built for civil servant attendance needs in the Kupang Regency work environment.  
+This application was built using **Laravel** and developed into an **Android-based mobile application**.  
+**Technologies:** Laravel, MySQL  
+
+---
+
+### 🧮 Decision Support System (2025)  
+A full-stack web application for Decision Support System (DSS).  
+Implements methods such as **SMART, WASPAS, ELECTRE, VIKOR, Profile Matching**, and other DSS techniques.  
+Developed to meet the needs of **final-year students**.  
+**Technologies:** Laravel, MySQL  
+
+---
+
+### 🏋️ Gym Website (2024)  
+A **full-stack gym website** application built with **React.ts, Express.js, and MySQL**.  
+Created to fulfill requirements of final-year student projects.  
+**Technologies:** React.ts, Express.js, MySQL  
+
+---
+
+### 🛒 E-Commerce Platform (2024)  
+A **full-stack e-commerce web application** developed with **React.ts, Express.js, and MySQL**.  
+Designed to support final-year student project needs.  
+**Technologies:** React.ts, Express.js, MySQL  
 
 ---
 
