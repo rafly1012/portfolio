@@ -13,9 +13,6 @@ export default function Home() {
           <h1 className="scroll-m-20 text-center text-4xl font-extrabold tracking-tight text-balance">
             Rafly Yusuf
           </h1>
-          <p className="text-muted-foreground text-sm">
-            Created on: Aug 14, 2025
-          </p>
           <p className="text-muted-foreground text-xl">Full-Stack Developer</p>
         </div>
 
