@@ -52,7 +52,7 @@ Designed to support final-year student project needs.
 
 ## Contact
 📍 Kupang, Indonesia  
-📧 [Your Email](mailto:rraaffllyy69@gmail.com)  
+📧 [Email](mailto:rraaffllyy69@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/rafly-yusuf-42b409177)  
 💻 [GitHub](https://github.com/rafly1012)  
 
