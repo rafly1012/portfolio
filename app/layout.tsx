@@ -13,8 +13,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Rafly Yusuf",
+  title: "Rafly Yusuf | Full-Stack Developer Portfolio",
   description: "Portfolio",
+  keywords: ["Rafly Yusuf", "Full-Stack Developer", "Portfolio"],
+  authors: [{ name: "Rafly Yusuf" }],
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout({
@@ -27,6 +33,22 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Person",
+              name: "Rafly Yusuf",
+              url: "https://raflyyusuf.com",
+              jobTitle: "Web Developer",
+              sameAs: [
+                "https://www.linkedin.com/in/rafly-yusuf-42b409177",
+                "https://github.com/rafly1012",
+              ],
+            }),
+          }}
+        />
         {children}
       </body>
     </html>
